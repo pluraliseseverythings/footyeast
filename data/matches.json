@@ -1,0 +1,142 @@
+[
+  {
+    "teams": [
+      [
+        "levi",
+        "andre",
+        "max",
+        "szimi"
+      ],
+      [
+        "dom",
+        "mayo",
+        "ala",
+        "oli"
+      ]
+    ],
+    "score": [
+      13,
+      7
+    ]
+  },
+  {
+    "teams": [
+      [
+        "levi",
+        "otherplayer2",
+        "max",
+        "szimi"
+      ],
+      [
+        "otherplayer1",
+        "mayo",
+        "ala",
+        "oli"
+      ]
+    ],
+    "score": [
+      3,
+      3
+    ]
+  },
+  {
+    "teams": [
+      [
+        "levi",
+        "dom",
+        "oli",
+        "szimi"
+      ],
+      [
+        "andre",
+        "mayo",
+        "ala",
+        "max"
+      ]
+    ],
+    "score": [
+      4,
+      5
+    ]
+  },
+  {
+    "teams": [
+      [
+        "levi",
+        "dom",
+        "oli",
+        "szimi"
+      ],
+      [
+        "andre",
+        "mayo",
+        "ala",
+        "max"
+      ]
+    ],
+    "score": [
+      4,
+      5
+    ]
+  },
+  {
+    "teams": [
+      [
+        "levi",
+        "dom",
+        "oli",
+        "szimi"
+      ],
+      [
+        "andre",
+        "mayo",
+        "ala",
+        "max"
+      ]
+    ],
+    "score": [
+      1,
+      1
+    ]
+  },
+  {
+    "teams": [
+      [
+        "max",
+        "dom",
+        "oli",
+        "szimi"
+      ],
+      [
+        "andre",
+        "mayo",
+        "ala",
+        "levi"
+      ]
+    ],
+    "score": [
+      9,
+      1
+    ]
+  },
+  {
+    "teams": [
+      [
+        "max",
+        "dom",
+        "andre",
+        "szimi"
+      ],
+      [
+        "oli",
+        "mayo",
+        "ala",
+        "levi"
+      ]
+    ],
+    "score": [
+      10,
+      11
+    ]
+  }
+]
